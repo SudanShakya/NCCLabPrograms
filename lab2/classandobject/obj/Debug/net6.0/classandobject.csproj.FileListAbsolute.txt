@@ -1,0 +1,15 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\bin\Debug\net6.0\classandobject.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\bin\Debug\net6.0\classandobject.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\bin\Debug\net6.0\classandobject.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\bin\Debug\net6.0\classandobject.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\bin\Debug\net6.0\classandobject.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\refint\classandobject.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\classandobject.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\classandobject\obj\Debug\net6.0\ref\classandobject.dll

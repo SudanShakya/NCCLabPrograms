@@ -1,0 +1,15 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\bin\Debug\net6.0\Overriding.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\bin\Debug\net6.0\Overriding.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\bin\Debug\net6.0\Overriding.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\bin\Debug\net6.0\Overriding.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\bin\Debug\net6.0\Overriding.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\refint\Overriding.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\Overriding.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overriding\obj\Debug\net6.0\ref\Overriding.dll
