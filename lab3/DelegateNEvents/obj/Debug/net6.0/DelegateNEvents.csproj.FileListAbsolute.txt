@@ -1,0 +1,15 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\bin\Debug\net6.0\DelegateNEvents.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\bin\Debug\net6.0\DelegateNEvents.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\bin\Debug\net6.0\DelegateNEvents.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\bin\Debug\net6.0\DelegateNEvents.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\bin\Debug\net6.0\DelegateNEvents.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\refint\DelegateNEvents.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\DelegateNEvents.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab3\DelegateNEvents\obj\Debug\net6.0\ref\DelegateNEvents.dll
