@@ -1,0 +1,15 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\bin\Debug\net6.0\MultithreadandMultitask.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\bin\Debug\net6.0\MultithreadandMultitask.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\bin\Debug\net6.0\MultithreadandMultitask.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\bin\Debug\net6.0\MultithreadandMultitask.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\bin\Debug\net6.0\MultithreadandMultitask.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\refint\MultithreadandMultitask.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\MultithreadandMultitask.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab5\MultithreadandMultitask\obj\Debug\net6.0\ref\MultithreadandMultitask.dll
