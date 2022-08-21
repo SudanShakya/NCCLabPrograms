@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Student>
+@{
+    ViewData["Titel"] = "Index";
+}
+
+@if (TempData["success"] != null)
+{
+    <h2>@TempData["success"]</h2>
+}
+
+<div class="container p-4 mt-2">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="text-primary">Students</h2>
+        </div>
+        <div class="col-6">
+            <a class="btn btn-primary float-end" asp-action="Create" asp-controller="Student">Create Student</a>
+        </div>
+    </div>
+</div>
+<hr />
+<table class="table table-responsive">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Semester</th>
+            <th>Address</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.FullName</td>
+                <td>@item.semester</td>
+                <td>@item.Address</td>
+                <td role="group">
+                    <a class="text-success" asp-action="Edit" asp-controller="Student" asp-route-id="@item.ID">Edit</a>
+                    <a class="text-danger" asp-action="Delete" asp-controller="Student" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
